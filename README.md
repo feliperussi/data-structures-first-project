@@ -1,4 +1,5 @@
-## Grupo 2 (2020-20)
+## T1_202020
+## Grupo 2 (202020)
 1. Felipe Arias Russi 201914996
 2. Luisa Fernanda Estrada 201631037
 3. Mario Alejandro Ruiz 2019206953.
@@ -39,6 +40,3 @@ The `estructura_de_datos.png` image in the `docs` directory visualizes the data 
 
 ## Contributing
 Contributions are welcome. Please ensure to maintain the coding standards and provide documentation for your code.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for more information.
